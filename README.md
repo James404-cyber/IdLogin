@@ -8,7 +8,7 @@
 <h2 align="center"> FB CRACKING TOOL ONLY ID LOGIN METHOD </h2>
 
 <p align="center">
-      LATEST FB FRIEND,PUBLIC ID AND FILE CLONER
+      LATEST FB FRIENDLIST FAST CLONING 
 </p>
 
 
