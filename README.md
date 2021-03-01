@@ -29,7 +29,7 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/IdLogin.git
 $ cd IdLogin
-$ python2 FbClone.py
+$ python2 Fbclone.py
 ```
 
 # Single Command 
